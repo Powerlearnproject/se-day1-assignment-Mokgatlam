@@ -13,8 +13,8 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming Languages
-2. The estabishment of Software engineering as a discipline
-3. The rise of agile methodologies 
+2. The estabishment of Software engineering as a discipline.
+3. The rise of agile methodologies.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements - Gathering and documenting user needs and system requirements.
