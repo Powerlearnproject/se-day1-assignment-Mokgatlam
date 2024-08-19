@@ -10,7 +10,6 @@ Explain what software engineering is and discuss its importance in the technolog
 3. Software engineering is important in the tech industry by enabling creations of software application
     and systems that power various aspects of modern life, including communication applications like Whatsapp.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming Languages
 2. The estabishment of Software engineering as a discipline.
@@ -24,19 +23,16 @@ List and briefly explain the phases of the Software Development Life Cycle.
 5. Deployment- Releasing the software to users.
 6. Maintenance - Providing ongoing support, updates, and enhancements to the software after deployment.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 1. Waterfall - Sequential approach with distinct phases for example requirements, design, implementation, flowing downwards like a waterfall.
    scenario: Construction Projects- Building construction often follows a Waterfall approach since the stages (design, foundation, structure, finishing) must be completed in order and changes during the construction phase are costly.
 2. Agile - Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
   Scenario: Startups- Startups often use Agile due to the need to quickly adapt to market changes, customer feedback, and emerging technologies.
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer- Responsible for writing code and implementing software solutions.
 2. Quality Assurance Engineer- Ensures software quality by designing and executing test plans.
 3. Project Manager- Oversees the planning, execution, and delivery of software projects.
-
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 1. Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code - example: Visual Studio, Eclipse.
@@ -53,39 +49,30 @@ strategies to help overcome challenges:
 3. Prioritization of tasks
 4. Regular reassessment of project goals and timelines
 
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1. Unit Testing - Testing individual components or modules of software.
 2. Integration Testing- Testing interactions between different components or subsystems.
 3. System Testing- Testing the entire software system as a whole.
 4. Acceptance Testing- Testing the software against user requirements to ensure it meets user needs.
-
 Quality control measures such as code reviews, automated testing, and continuous integration help 
 identify and fix defects early in the development process, leading to higher-quality software products.
 
-
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 1. Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
 2. Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
 
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 1. Vague prompt:" Tell me how a farming app works."
 2. Improved Prompt:" Describe how a farming app in South Africa can help farmers optimize crop planting schedules based
    on seasonal weather patterns, including how the app could use local weather data to recommend the best times for planting and harvesting."
-
 Clarity: The vague prompt "Tell me how a farming app works" is too broad, as it doesn't specify the type of farming app or
 the context in which it is being used. The improved prompt clearly focuses on a farming app in South Africa, which is essential
 for tailoring the response to the local context.
-
 Specificity: The improved prompt specifies the app's purpose (optimizing crop planting schedules) and the critical factor 
 it needs to consider (South African seasonal weather patterns). This narrows down the response to a particular use case, 
 making the information more relevant.
-
 Conciseness: While providing enough detail to guide the response, the improved prompt remains concise, ensuring 
 the AI can quickly grasp the exact information needed without unnecessary elaboration.
 
